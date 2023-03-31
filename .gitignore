@@ -1,0 +1,10 @@
+*.idea
+*.pyc
+*.vscode
+.env
+venv
+env
+.vscode
+dummy.json
+ner_models
+ai-models
